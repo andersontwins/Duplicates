@@ -1,0 +1,6 @@
+# Ignore hidden files
+.*
+!.gitignore
+
+# Ignore temp files
+temp_duplicates.txt

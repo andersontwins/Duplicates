@@ -1,0 +1,7 @@
+{
+    "log_file": "duplicates.log",
+    "temp_file": "temp_file_info.json",
+    "save_interval": 1000,
+    "directories": ["/path/to/directory1", "/path/to/directory2"],
+    "ignore_list": [".", "_"]
+}
