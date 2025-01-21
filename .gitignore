@@ -4,3 +4,9 @@
 
 # Ignore temp files
 temp_duplicates.txt
+
+# Ignore report files
+duplicates_report.txt
+
+# Ignore temporary JSON files
+*.json
