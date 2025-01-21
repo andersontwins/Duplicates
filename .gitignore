@@ -9,4 +9,4 @@ temp_duplicates.txt
 duplicates_report.txt
 
 # Ignore temporary JSON files
-*.json
+temp_file_info.json
