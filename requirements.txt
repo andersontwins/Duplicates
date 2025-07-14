@@ -39,5 +39,5 @@ toml==0.10.2
 tqdm==4.66.5
 typing-extensions==3.10.0.2
 updates==0.1.7.1
-urllib3==2.3.0
+urllib3==2.5.0
 wheel==0.44.0
